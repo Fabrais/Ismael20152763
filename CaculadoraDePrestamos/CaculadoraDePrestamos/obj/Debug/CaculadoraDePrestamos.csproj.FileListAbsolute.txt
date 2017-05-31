@@ -1,0 +1,9 @@
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\bin\Debug\CaculadoraDePrestamos.exe.config
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\bin\Debug\CaculadoraDePrestamos.exe
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\bin\Debug\CaculadoraDePrestamos.pdb
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.csprojResolveAssemblyReference.cache
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.Form1.resources
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.Properties.Resources.resources
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.csproj.GenerateResource.Cache
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.exe
+c:\users\fabra\onedrive\documents\visual studio 2017\Projects\CaculadoraDePrestamos\CaculadoraDePrestamos\obj\Debug\CaculadoraDePrestamos.pdb
